@@ -1,1 +1,2 @@
 world
+main info to file2
